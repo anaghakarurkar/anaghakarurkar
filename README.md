@@ -1,44 +1,27 @@
-Hi! My name is Anagha Karurkar
-=======================================================================================================================================
-
-Software developer
-------------------
-
-🌟 Welcome to my GitHub profile! I'm a passionate Software Developer who loves crafting innovative solutions to complex problems. With a strong foundation in software engineering and a knack for learning new technologies, I aim to build efficient, scalable, and impactful software.
-
-* 🌍  I'm based in United Kingdom
-* ✉️  You can contact me at [anghakarurkar@yahoo.com](mailto:anghakarurkar@yahoo.com)
+# 💫 About Me:
+ Welcome to my GitHub profile! I'm a passionate Software Developer who loves crafting innovative solutions to complex problems. With a strong foundation in software engineering and a knack for learning new technologies, I aim to build efficient, scalable, and impactful software.
 
 
-### Skills
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anagha-karurkar-87132628) 
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-</p>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anaghakarurkar&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=anaghakarurkar&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anaghakarurkar&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=anaghakarurkar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### Socials
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=anaghakarurkar&limit=5&theme=default&combine_all_yearly_contributions=true)
 
-<p align="left"> <a href="https://www.github.com/anaghakarurkar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/anagha-karurkar-87132628/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+---
+[![](https://visitcount.itsvg.in/api?id=anaghakarurkar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-
-### My GitHub Stats
-
-<a href="http://www.github.com/anaghakarurkar"><img src="https://github-readme-stats.vercel.app/api?username=anaghakarurkar&show_icons=true&hide=contribs&count_private=true&title_color=000000&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="anaghakarurkar's GitHub stats" /></a>
-
-<a href="http://www.github.com/anaghakarurkar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anaghakarurkar&stroke=0f172a&background=ffffff&ring=000000&fire=000000&currStreakNum=0f172a&currStreakLabel=000000&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
-
-<a href="http://www.github.com/anaghakarurkar"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=anaghakarurkar&bg_color=ffffff&color=0f172a&line=0891b2&point=0f172a&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/anaghakarurkar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaghakarurkar&langs_count=10&title_color=000000&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/anaghakarurkar/MelodyMarsMission" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anaghakarurkar&repo=MelodyMarsMission&title_color=000000&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/anaghakarurkar/BowlingGameKataApp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anaghakarurkar&repo=BowlingGameKataApp&title_color=000000&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/anaghakarurkar/CinnamonCinemas" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anaghakarurkar&repo=CinnamonCinemas&title_color=000000&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/anaghakarurkar/javascript_ES6_Practice" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anaghakarurkar&repo=javascript_ES6_Practice&title_color=000000&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
