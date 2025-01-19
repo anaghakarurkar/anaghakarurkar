@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-%231877F2.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anagha-karurkar-87132628) 
-[![Codewars](https://img.shields.io/badge/Codewars-%231877F2.svg?logo=Codewars&logoColor=red)](https://www.codewars.com/users/Anagha%20Karurkar)
+[![Codewars Badge](https://img.shields.io/badge/Codewars-4_Kyu-blue)](https://www.codewars.com/users/Anagha%20Karurkar)
 
 
 # 💻 Tech Stack:
