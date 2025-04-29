@@ -3,8 +3,7 @@
 
 
 ## 🌐 Socials:
-
-[![Linkedin](https://img.shields.io/badge/Linkedin-%231877F2.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anagha-karurkar-87132628) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anagha-karurkar-87132628) 
 [![Codewars Badge](https://img.shields.io/badge/Codewars-4_Kyu-blue)](https://www.codewars.com/users/Anagha%20Karurkar)
 
 
